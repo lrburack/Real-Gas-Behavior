@@ -11,7 +11,7 @@ A MATLAB App Designer project exploring the behavior of real gases according to 
 <video src="https://user-images.githubusercontent.com/121359508/209477178-650cf3df-e9fe-4d5f-a8e8-7e774341a3b3.mp4" width=180><video/>
 
 <h3> To use... </h3>
-Feel free to download the source, but it may be easier to install the app with the <a href="https://drive.google.com/file/d/1ZYsmD1W2tIB2VOImvbMRTEOxshHNLKax/view?usp=sharing"> RealGasVisualizer.mlappinstall</a> file. Unfortunately you have to have a copy of MATLAB to run it.
+Feel free to download the source, but it may be easier to install the app with the <a href="https://drive.google.com/file/d/1ZYsmD1W2tIB2VOImvbMRTEOxshHNLKax/view?usp=sharing"> RealGasVisualizer.mlappinstall</a> file. You can ignore the folder that appears when you click the link -- just press the download button in the upper right and you should get the correct file. Unfortunately, you'll need a copy of MATLAB to run it.
 
 <h3> Some background </h3>
 The ideal gas law taught in high school chemistry (pV = nRT) makes assumptions about gas behavior which are particularly erronious at high pressures and low temperatures. The Van Der Waals equation is a modified version of the ideal gas law that attempts to account for the attractions between, and volume occupied by, real gas particles. Because the sizes and forces between gases vary, each gas has its own Van Der Waals constants 'a' and 'b,' (constants stolen from <a href="https://en.wikipedia.org/wiki/Van_der_Waals_constants_(data_page)"> this Wikipedia article</a>).
