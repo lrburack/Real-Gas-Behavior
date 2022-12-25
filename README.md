@@ -27,7 +27,7 @@ For this project, the Van Der Waals equation was rearranged to solve for volume 
   The roots of this equation are evaluated to find volume.
 </div>
 
-The compression factor is a common metric for the degree to which a gas behaves ideally. I first encountered the concept <a href="https://www.chemguide.co.uk/physical/kt/realgases.html" style="white-space: nowrap">here</a>, but was dissatisfied with the article's two dimensional graphs which were clearly losing some three dimensional topology.
+Compression factor is a common metric for the degree to which a gas behaves ideally. I first encountered the concept <a href="https://www.chemguide.co.uk/physical/kt/realgases.html" style="white-space: nowrap">here</a>, but was dissatisfied with the article's two dimensional graphs which were clearly losing some three dimensional topology.
 
 <p align="center" style="display:inline-block">
   <img src="https://user-images.githubusercontent.com/121359508/209476218-4d349f83-b25d-440d-839d-75a43fb64621.png"/ width="43%">
