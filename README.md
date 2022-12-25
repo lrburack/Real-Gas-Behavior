@@ -19,7 +19,7 @@ The ideal gas law taught in high school chemistry (pV = nRT) makes assumptions a
 <div align="center">
   <img src="https://latex.codecogs.com/svg.image?p=\frac{nRT}{V-nb}-\frac{an^2}{v^2}"/>
 </div>
-For this project, the Van Der Waals equation was rearranged to solve for volume as a function of pressure and temperature. The result isn't quite as pretty as the above.
+For this project, the Van Der Waals equation was rearranged to solve for volume as a function of pressure and temperature (<a href="https://www.desmos.com/calculator/scpxiiiy5f">desmos demonstration</a>). The result isn't quite as pretty as the above.
 <br></br>
 <div align="center">
   <img src="https://latex.codecogs.com/svg.image?p{\color{Red}&space;v^3}&plus;(nbp&plus;nRT){\color{Red}&space;v^2}&plus;an^2{\color{Red}&space;v}&plus;abn^3=0"/>
